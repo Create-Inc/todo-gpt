@@ -17,7 +17,7 @@
     "eslint-config-next": "13.3.0",
     "next": "13.3.0",
     "pg": "^8.10.0",
-    "postcss": "8.4.21",
+    "postcss": "8.4.31",
     "pothos": "^0.0.1",
     "prisma": "^4.12.0",
     "react": "18.2.0",
